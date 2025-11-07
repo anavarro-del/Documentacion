@@ -111,6 +111,12 @@ print(f"Filas restantes en principal: {len(manejador.df_principal)}")
 manejador.reset_principal()
 ```
 
+8. Si te equivocaste, restaurar el `paso anterior`:
+
+```python
+manejador.restaurar_anterior()
+```
+
 ## Buenas prácticas y notas
 
 - Inspecciona siempre con `ver_top_palabras` antes de aplicar un filtro definitivo con `aplicar_filtro`.
@@ -145,3 +151,4 @@ Si quieres, puedo:
 - Generar tests unitarios mínimos para las operaciones del gestor.
 
 Dime qué prefieres y lo actualizo.
+
