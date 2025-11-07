@@ -108,7 +108,7 @@ print(f"Filas restantes en principal: {len(manejador.df_principal)}")
 8. Si te equivocaste, restaurar el `principal`:
 
 ```python
-manejador.reset_principal()
+manejador.restaurar_todo()
 ```
 
 8. Si te equivocaste, restaurar el `paso anterior`:
@@ -151,4 +151,5 @@ Si quieres, puedo:
 - Generar tests unitarios mínimos para las operaciones del gestor.
 
 Dime qué prefieres y lo actualizo.
+
 
