@@ -141,16 +141,10 @@ manejador.restaurar_anterior()
 
 ## Licencia y atribución
 
-Incluye aquí la licencia que prefieras (p. ej. MIT) o indica que el README es documentación interna.
+Atribucion : Ali J. Navarro Heredia.
 
 ---
 
-Si quieres, puedo:
-- Ajustar el README para que sea un `README.md` en la raíz del proyecto.
-- Añadir ejemplos con código real (creando un DataFrame de ejemplo y mostrando la salida esperada).
-- Generar tests unitarios mínimos para las operaciones del gestor.
-
-Dime qué prefieres y lo actualizo.
 
 
 
