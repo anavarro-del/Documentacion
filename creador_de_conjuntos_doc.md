@@ -1,6 +1,6 @@
 # DataFilterManager — Guía rápida
 
-Este README resume el fragmento de ejemplo provisto (archivo sin título) y documenta el uso básico del gestor de filtros de datos `DataFilterManager` mostrado en el extracto.
+Este README  documenta el uso básico del gestor de filtros de datos `DataFilterManager` mostrado en el extracto.
 
 ## Propósito
 
@@ -151,5 +151,6 @@ Si quieres, puedo:
 - Generar tests unitarios mínimos para las operaciones del gestor.
 
 Dime qué prefieres y lo actualizo.
+
 
 
